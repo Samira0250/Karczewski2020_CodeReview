@@ -15,7 +15,7 @@ three metrics â€” pLI, observed/expected LoF ratio (o/e), and missense Z-score â
 that have since become standard tools for prioritizing candidate disease genes
 and interpreting variant pathogenicity. As requested by the editor, my review
 below focuses on the code associated with this manuscript, available at
-https://github.com/broadinstitute/gnomad_lof.**Authors:** Karczewski, K.J., Francioli, L.C., Tiao, G., et al. (Genome Aggregation Database Consortium)
+https://github.com/broadinstitute/gnomad_lof. **Authors:** Karczewski, K.J., Francioli, L.C., Tiao, G., et al. (Genome Aggregation Database Consortium)
 
 
 
