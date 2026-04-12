@@ -4,9 +4,12 @@
 
 **Code repository:** https://github.com/broadinstitute/gnomad_lof
 
-**Reviewer:** Samira Salimiiyan
+**Reviewer:** Samira Salimiyan
+
 **Course:** BIOL 7180 — Scripting for Biologists
+
 **Institution:** Auburn University
+
 **Review Date:** April 2026
 
 ---
