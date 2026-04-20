@@ -16,7 +16,7 @@
 
 ## Summary
 
-Karczewski et al. (2020) present gnomAD v2.1.1, aggregating exome and genome sequencing data from 141,456 individuals to quantify gene-level constraint against loss-of-function (LoF) and missense variation. The authors introduce three metrics — pLI, observed/expected LoF ratio (o/e), and missense Z-score — that have since become standard tools for prioritizing candidate disease genes and interpreting variant pathogenicity. As requested by the editor, my review below focuses on the code associated with this manuscript, available at https://github.com/broadinstitute/gnomad_lof.
+Karczewski et al. (2020) present gnomAD v2.1.1, aggregating exome and genome sequencing data from 141,456 individuals to quantify gene-level constraint against loss-of-function (LoF) and missense variation. The authors introduce three metrics — pLI, observed/expected LoF ratio (o/e), and missense Z-score — that have since become standard tools for prioritizing candidate disease genes and interpreting variant pathogenicity. As requested, my review below focuses on the code associated with this manuscript, available at https://github.com/broadinstitute/gnomad_lof.
 
 **Overall reproducibility:** The repository provides partial reproducibility. Figure generation scripts work well with pre-computed data, but the core constraint calculation pipeline cannot be independently reproduced due to missing internal functions and infrastructure barriers detailed below.
 
